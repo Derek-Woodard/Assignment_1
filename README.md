@@ -1,2 +1,1 @@
-# Assignment_1
-repo for assignment 1
+# ELEC_4700A_Assignment_1
